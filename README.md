@@ -12,7 +12,7 @@ Stay updated with the LinkedIn and GitHub.
 
 ## 💸 Support My Projects 🤝	
 
-If you’ve found my content helpful — tutorials, code — and want to say **thanks**, here are a few ways to support 💖:
+If you’ve found my content helpful — Projects, code — and want to say **thanks**, here are a few ways to support 💖:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)]
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
